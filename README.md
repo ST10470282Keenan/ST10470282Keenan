@@ -1,6 +1,8 @@
 ## Hi there 👋
 Im a 1st year student at Varsity College in Cape Town
+
 Studying Computer Science
+
 I have experience in Java development, Computer Networking and Information Systems.
 
 I have a biltong business with my brother called Biltong Braai Brothers. We supply biltong to a hand full of business and organizations.
