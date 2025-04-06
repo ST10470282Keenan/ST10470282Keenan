@@ -1,7 +1,7 @@
 ## Hi there 👋
 Im a 1st year student at Varsity College in Cape Town
 
-Studying Computer Science
+Studying Bachelor of Computer Science
 
 I have experience in Java development, Computer Networking and Information Systems.
 
